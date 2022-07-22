@@ -24,14 +24,14 @@
     
     /*
     Hello Saneha
-    Goodbye John
+    Good Bye John
     Hello Nishika 
-    Goodbye James 
+    Good Bye James 
     Hello Prisha
     Hello Franklin 
     Hello Lora
     Hello Preeti 
     Hello Lavana
-    Goodbye Jaskirat
+    Good Bye Jaskirat
     */
 })();
