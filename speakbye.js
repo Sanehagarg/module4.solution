@@ -3,14 +3,14 @@
 (function (window) {
 
     // variable to store Good Bye
-    var byeGreeting = "Good Bye";
+    var speakWord = "Good Bye";
     
     //object creation which is equal to a function having name in the paranthesis
-    var jSpeaker = function (name) {
+    var byeSpeaker = function (name) {
         
         // printing statement
     console.log(byeGreeting + " " + name);
     }
     
-    window.jSpeaker = jSpeaker;
+    window.byeSpeaker = byeSpeaker;
     })(window);
