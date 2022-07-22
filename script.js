@@ -1,7 +1,7 @@
 (function () {
     // array of names which will be checked 
     
-    var names = ["Saneha", "John", "Nishika", "James", "Prisha", "Franklin", "Lora", "Preeti", "Lavana", "Jaskirat"];
+    var names = ["Yakkov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
     
     //loop so that every name should be check upto the array (name) length
     for (var i = 0; i < names.length; i++) {
@@ -23,15 +23,15 @@
     // The output will be like this :
     
     /*
-    Hello Saneha
-    Good Bye John
-    Hello Nishika 
-    Good Bye James 
-    Hello Prisha
-    Hello Franklin 
-    Hello Lora
-    Hello Preeti 
-    Hello Lavana
-    Good Bye Jaskirat
+    Hello Yaakov
+Good Bye John
+Good Bye Jen
+Good Bye Jason
+Hello Paul
+Hello Frank
+Hello Larry
+Hello Paula
+Hello Laura
+Good Bye Jim
     */
 })();
