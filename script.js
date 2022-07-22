@@ -19,4 +19,19 @@
     speaker(names[i]);
     }
     }
+    
+    // The output will be like this :
+    
+    /*
+    Hello Saneha
+    Goodbye John
+    Hello Nishika 
+    Goodbye James 
+    Hello Prisha
+    Hello Franklin 
+    Hello Lora
+    Hello Preeti 
+    Hello Lavana
+    Goodbye Jaskirat
+    */
 })();
