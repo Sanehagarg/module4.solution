@@ -3,17 +3,17 @@
 (function (window) {
     
     // variable which will store Hello
-    var greeting = "Hello";
+    var speakWord = "Hello";
     
     // function which will be taking name as the argument which do not start with the letter j in the paranthesis 
     //and will perform the whole functioning
     //and store the return value in variable speaker
     
-    var speaker = function (name) {
+    var helloSpeaker = function (name) {
         
         //printing statemet
-    console.log(greeting + " " + name);
+    console.log(speakWord + " " + name);
     }
     
-    window.speaker =speaker;
+    window.helloSpeaker =helloSpeaker;
 })(window);
