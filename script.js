@@ -14,9 +14,9 @@
         // triple equals to sign will be used to check whether the given letter is of same type or not as told in the lecture
         
     if (firstLetter === 'j') {
-    jSpeaker(names[i]);
+    byeSpeaker(names[i]);
     } else {
-    speaker(names[i]);
+    helloSpeaker(names[i]);
     }
     }
     
